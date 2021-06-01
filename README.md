@@ -20,3 +20,5 @@
 - https://github.com/google-developer-training/android-fundamentals-apps-v2/tree/master/ImplicitIntentsReceiver /
 ------------------------------
 ### Изображение приложения:
+
+![Screenshot_1622546171](https://user-images.githubusercontent.com/77355204/120315535-2476d900-c2e5-11eb-9477-281c450050d6.png)
